@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello guys. My name is Stefan2008. You can call me by real name if you want. 15 year's old boy. He/Him. Im only Haxe and HaxeFlixel coder only for Friday Night Funkin': SB Engine. Here's my current status: 
 
-<!--
-**Stefan2008Git/Stefan2008Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefan2008git&show_icons=true&theme=gruvbox)
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Windows 10-FFA500?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/haxe-logo.svg?style=for-the-badge&logo=haxe&logoColor=white)" /> <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-FFA500?style=for-the-badge&logo=lenovo&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My current code editor:
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+
+## My current platform and program langauage:
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" /> 
