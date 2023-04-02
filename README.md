@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefan2008git&show_icons=true&theme=gruvbox)
 
-<img src="https://img.shields.io/badge/Windows 10-FFA500?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/haxe-logo.svg?style=for-the-badge&logo=haxe&logoColor=white)" /> <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-FFA500?style=for-the-badge&logo=lenovo&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows 11-FFA500?style=for-the-badge&logo=windows11&logoColor=white" /> <img src="https://img.shields.io/badge/haxe-logo.svg?style=for-the-badge&logo=haxe&logoColor=white)" /> <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-FFA500?style=for-the-badge&logo=lenovo&logoColor=white" />
 
 ## My current code editor:
 
