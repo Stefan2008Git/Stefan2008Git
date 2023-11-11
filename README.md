@@ -1,4 +1,4 @@
-## Hello guys. My name is Stefan2008. 15 year's old boy. He/Him. Im only Haxe and HaxeFlixel coder for Friday Night Funkin': SB Engine. Here's is my current status: 
+## Hello guys. My name is Stefan2008. 15 years old boy. He/Him. I am only Haxe and HaxeFlixel coder for Friday Night Funkin': SB Engine. Here is my current status: 
 
 ![](https://github-readme-stats.vercel.app/api?username=Stefan2008Git&show_icons=true&theme=jolly)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2008Git&layout=compact&show_icons=true&theme=jolly)
