@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Stefan2008Git&show_icons=true&theme=jolly)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2008Git&layout=compact&show_icons=true&theme=jolly)
 
-<img src="https://img.shields.io/badge/Windows 10-5E99DF?style=for-the-badge&logo=windows10&logoColor=white" /> <img src="https://img.shields.io/badge/haxe-logo.svg?style=for-the-badge&logo=haxe&logoColor=orange)" /> <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-FFA500?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/haxe-logo.svg?style=for-the-badge&logo=haxe&logoColor=orange)" /> <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
 ## My current code editor:
 
