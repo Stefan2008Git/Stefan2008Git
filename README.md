@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2008Git&layout=compact&show_icons=true&theme=kacho_ga)
 
-<img src="https://img.shields.io/badge/Ubuntu-FFA500?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Haxe-FFA500?style=for-the-badge&logo=haxe&logoColor=white" />  <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=blue" /> <img src="https://img.shields.io/badge/Haxe-FFA300?style=for-the-badge&logo=haxe&logoColor=orange" />  <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
 ## My current code editor:
 
