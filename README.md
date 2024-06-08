@@ -6,11 +6,24 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2008Git&layout=compact&show_icons=true&theme=kacho_ga)
 
-<img src="https://img.shields.io/badge/Fedora 40-34be5b?style=for-the-badge&logo=fedora&logoColor=blue" /> <img src="https://img.shields.io/badge/Haxe-orange?style=for-the-badge&logo=haxe&logoColor=D35100" />  <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora Linux 40 KDE Live -34be5b?style=for-the-badge&logo=fedora&logoColor=blue" /> 
+
+<img src="https://img.shields.io/badge/Haxe-orange?style=for-the-badge&logo=haxe&logoColor=D35100" />                                       
+
+<img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
 ## My current code editor:
 
-<img src='https://skillicons.dev/icons?i=vscode'/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
+
 ## My current platform and programming language:
 
-<img src='https://skillicons.dev/icons?i=linux,haxe,haxeflixel'/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,haxe,haxeflixel" />
+  </a>
+</p>
