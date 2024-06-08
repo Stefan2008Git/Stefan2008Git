@@ -10,8 +10,7 @@
 
 ## My current code editor:
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img src='https://skillicons.dev/icons?i=vscode'/>
+## My current platform and programming language:
 
-## My current platform and program language:
-
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" /> 
+<img src='https://skillicons.dev/icons?i=linux,haxe,haxeflixel'/>
