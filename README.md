@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2008Git&layout=compact&show_icons=true&theme=kacho_ga)
 
-<img src="https://img.shields.io/badge/Fedora Linux 40 KDE Live -34be5b?style=for-the-badge&logo=fedora&logoColor=blue" /> 
+<img src="https://img.shields.io/badge/Manjaro Linux -34be5b?style=for-the-badge&logo=manjaro&logoColor=white" /> 
 
 <img src="https://img.shields.io/badge/Haxe-orange?style=for-the-badge&logo=haxe&logoColor=D35100" />                                       
 
