@@ -16,9 +16,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Stefan2008Git&&repo=FNF-SB-Engine&cache_seconds=86400&theme=kacho_ga)
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=Stefan2008Git&&repo=FNF-SB-Engine-legacy&cache_seconds=86400&theme=kacho_ga)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan2008Git&layout=compact&show_icons=true&theme=kacho_ga)
 
-<img src="https://img.shields.io/badge/Manjaro Linux -34be5b?style=for-the-badge&logo=manjaro&logoColor=white" /> 
+![](https://github-profile-trophy.vercel.app/?username=Stefan2008Git&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://img.shields.io/badge/Manjaro Linux (XFCE)-34be5b?style=for-the-badge&logo=manjaro&logoColor=white" /> 
 
 <img src="https://img.shields.io/badge/Haxe-orange?style=for-the-badge&logo=haxe&logoColor=D35100" />                                       
 
