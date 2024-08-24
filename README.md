@@ -14,6 +14,8 @@
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=Stefan2008Git&show_icons=true&theme=kacho_ga)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Stefan2008Git&theme=kacho_ga)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Stefan2008Git&&repo=FNF-SB-Engine&cache_seconds=86400&theme=kacho_ga)
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Stefan2008Git&&repo=FNF-SB-Engine-legacy&cache_seconds=86400&theme=kacho_ga)
