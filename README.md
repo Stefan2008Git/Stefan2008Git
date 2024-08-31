@@ -1,6 +1,6 @@
 <div align="center" style="font-weight: bold">
 
-![](https://raw.githubusercontent.com/Stefan2008Git/FNF-SB-Engine/main/assets/preload/images/credits/stefan.png)
+![](https://raw.githubusercontent.com/Stefan2008Git/FNF-SB-Engine/main/assets/shared/images/credits/stefan.png)
 <h3>
 @Stefan2008<br/>
 </h3>
@@ -24,9 +24,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Stefan2008Git&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://img.shields.io/badge/Manjaro Linux (XFCE)-34be5b?style=for-the-badge&logo=manjaro&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/Haxe-orange?style=for-the-badge&logo=haxe&logoColor=D35100" />                                       
+<img src="https://img.shields.io/badge/EndeavourOS (KDE Plasma)-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=7f7fff" />        
 
 <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
