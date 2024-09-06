@@ -1,6 +1,6 @@
 <div align="center" style="font-weight: bold">
 
-![](https://raw.githubusercontent.com/Stefan2008Git/FNF-SB-Engine/main/assets/shared/images/credits/stefan.png)
+<img src="https://raw.githubusercontent.com/Stefan2008Git/Stefan2008Git/main/assets/stefan2008-logo.png" alt="Main Stefan2008 logo" width="720" height="150">
 <h3>
 @Stefan2008<br/>
 </h3>
