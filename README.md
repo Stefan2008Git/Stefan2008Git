@@ -24,7 +24,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Stefan2008Git&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://img.shields.io/badge/EndeavourOS (KDE Plasma)-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=7f7fff" />        
+<img src="https://img.shields.io/badge/Arch Linux (KDE Plasma)-blue?style=for-the-badge&logo=archlinux&logoColor=5294e2" />        
 
 <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
