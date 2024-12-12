@@ -10,7 +10,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stefan2008Git&theme=kacho_ga)
 
-<img src="https://img.shields.io/badge/CachyOS (KDE Plasma)-0c5c00?style=for-the-badge&logo=cachyos&logoColor=0c5c00" /> 
+<img src="https://img.shields.io/badge/EndeavourOS (XFCE)-7f3fbf?style=for-the-badge&logo=endeavouros&logoColor=7f7ff" /> 
 
 
 <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
