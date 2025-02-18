@@ -1,8 +1,5 @@
 <div align="center" style="font-weight: bold">
 
-<img src="https://raw.githubusercontent.com/Stefan2008Git/Stefan2008Git/main/assets/stefan2008-logo.png" alt="Main Stefan2008 logo" width="720" height="150">
-<br/>
-
 ## Hello guys. My name is Stefan (stefan2008Official). 17 years old boy (he/him) who cames from Serbia and loves Linux so much & doing silly tech stuff in real life such as installing a custom ROM into my phone, fixing my laptop in case if i screw up something and more. Here is my current status and state:
 
 # Stats
@@ -10,7 +7,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stefan2008Git&theme=kacho_ga)
 
-<img src="https://img.shields.io/badge/EndeavourOS (XFCE)-7f3fbf?style=for-the-badge&logo=endeavouros&logoColor=7f7ff" /> 
+<img src="https://img.shields.io/badge/Arch Linux-black?style=for-the-badge&logo=archlinux&logoColor=white" /> 
 
 
 <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
