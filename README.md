@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
-![](https://komarev.com/ghpvc/?username=Stefan2008Git&color=0c5c00)
+![](https://komarev.com/ghpvc/?username=Stefan2008Git&color=red)
   
 <br/>
 
