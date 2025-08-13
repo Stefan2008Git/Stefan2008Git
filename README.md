@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1171174018091581472/1405219227807514794/AddText_08-13-01.49.07.png?ex=689e07e3&is=689cb663&hm=c302c9c8afc1b968275f69bcc5df06a485fc49a40067844a19000bb1e4ae352e&" alt="Sbinator logo"></img>
+  <br/>
+
 <div align="center" style="font-weight: bold">
 
 ## Hello there Git users and welcome to my profile. My name is Stefan2008 and i am 17 years old dude from Serbia, but want to learn Deutsch/Germany and be Austrian who uses internet and doing coding and programming. Here is all my current status:
