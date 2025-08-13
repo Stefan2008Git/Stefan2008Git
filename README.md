@@ -7,11 +7,13 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stefan2008Git&theme=kacho_ga)
 
+[![My Skills](https://skillicons.dev/icons?i=css,go,haxe,python)](https://skillicons.dev)
+   
 <img src="https://img.shields.io/badge/Solus-blue?style=for-the-badge&logo=solus&logoColor=white" /> 
-
 
 <img src="https://img.shields.io/badge/lenovo%20ideapad 14igl05-CF2D2D?style=for-the-badge&logo=lenovo&logoColor=white" />
 
 ![](https://komarev.com/ghpvc/?username=Stefan2008Git&color=0c5c00)
   
 <br/>
+
